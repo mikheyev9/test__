@@ -1,1 +1,1 @@
-simple selenium scrip
+simple selenium script
