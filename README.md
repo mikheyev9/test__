@@ -1,1 +1,1 @@
-text
+simple selenium scrip
